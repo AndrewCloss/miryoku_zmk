@@ -15,6 +15,5 @@ jobs:
       ]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       branches: '[
-        "zmkfirmware/zmk/main krikun98/zmk/mouse-pr",
         "zmkfirmware/zmk/main ftc/zmk/mouse-ftc"
       ]'
