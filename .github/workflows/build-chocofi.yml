@@ -1,4 +1,4 @@
-name: 'Build Example mousekeyspr'
+name: 'Chocofi'
 on: workflow_dispatch
 jobs:
   build:
