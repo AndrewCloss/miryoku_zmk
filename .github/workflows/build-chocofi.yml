@@ -7,5 +7,5 @@ jobs:
     with:
       board: '["nice_nano"]'
       shield: '["corne_left","corne_right"]'
-      custom_config: '["#define MIRYOKU_KLUDGE_GLOBALSHIFTFUNCTIONS\n#define MIRYOKU_KLUDGE_TOPROWCOMBOS\n#define MIRYOKU_KLUDGE_BOTTOMROWCOMBOS"]'
+      custom_config: '["#define MIRYOKU_KLUDGE_TOPROWCOMBOS\n#define MIRYOKU_KLUDGE_BOTTOMROWCOMBOS"]'
       kconfig: '["CONFIG_ZMK_COMBO_MAX_COMBOS_PER_KEY=16"]'
